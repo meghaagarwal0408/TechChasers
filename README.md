@@ -1,32 +1,6 @@
 
 # TECHCHASERS : Youtube Channel Code References
 
-<style>
-table {
-  border-collapse: collapse;
-  width: 50%;
-}
-th, td {
-  text-align: left;
-  padding: 8px;
-}
-tr:nth-child(even){background-color: #f2f2f2}
-
-th {
-  background-color: rgb(72,72,72);
-  color: white;
-}
-</style>
-<table>
-  <tr>
-    <th>Owner</th>
-  </tr>
-  <tr>
-    <td>Megha Agarwal</td>
-  </tr>
-  <tr>
-</table>
-
 ## Summary <a name="overview"></a>
 
 Hi, Welcome to the github repository of TechChasers Channel. This is specifically created for the code or documents references for any videos or tutorials streamed on the channel.
